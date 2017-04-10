@@ -39,6 +39,3 @@ blockquote:before, blockquote:after,
 q:before, q:after {
   content: '';
   content: none; }
-
-body {
-  background-color: #000000; }
